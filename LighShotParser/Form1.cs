@@ -56,6 +56,7 @@ namespace LighShotImgLoader
         {
             string imgName = imgURL.Split('/').Last();
             string imgPath = imgFolder + imgName;
+            lblFileName.Text = imgName;
             using (WebClient client = new WebClient())
             {
                 if (!File.Exists(imgPath)) ;
