@@ -1,0 +1,13 @@
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\bin\Debug\LighShotParser.exe.config
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\bin\Debug\LighShotParser.exe
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\bin\Debug\LighShotParser.pdb
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\bin\Debug\CsQuery.dll
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\bin\Debug\CsQuery.xml
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.Properties.Resources.resources
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.csproj.CopyComplete
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.exe
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotParser.pdb
+C:\Users\Sergey\source\repos\LighShotParser\LighShotParser\obj\Debug\LighShotImgLoader.Form1.resources
